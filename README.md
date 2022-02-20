@@ -1,18 +1,11 @@
 # Virtual Assistance For The Blind 
 
-<br>
-
-![](https://img.shields.io/github/forks/Candida18/Virtual-Assistance-For-The-Blind?style=for-the-badge) &emsp;  &emsp; 
-![](https://img.shields.io/github/stars/Candida18/Virtual-Assistance-For-The-Blind?style=for-the-badge) &emsp;  &emsp; 
-![](https://img.shields.io/github/license/Candida18/Virtual-Assistance-For-The-Blind?style=for-the-badge) &emsp; 
-
-<br>
 
 ## ABSTRACT : 
-<p align="justify">One of the most used forms of communication among people is Email. A lot of confidential and urgent information is exchanged over emails in today’s time. There are about 253 million visually impaired people worldwide. These visually impaired people are facing a problem of communication. Since technology is growing day by day, these visually challenged people feel that they are more challenged.</p>
+<p align="justify">Email is one of the most popular modes of communication among individuals. In today's world, emails are used to convey a lot of sensitive and time-sensitive information. There are around 253 million visually impaired persons on the globe. These visually handicapped persons are having difficulty communicating. As technology advances, these visually impaired persons see themselves to be increasingly challenged.</p>
 
 <p align="justify">
-So, we proposed a Voice-based Email System using AI that will make the email system very easily accessible to visually challenged people and also help society. Accessibility is the most important feature that is considered while developing this system. </p><br/>
+As a result, we presented a Voice-based Email System powered by AI, which would make email more accessible to visually impaired persons while also benefiting society. The most significant characteristic that has been addressed in the development of this system is accessibility. </p><br/>
 
 <!--[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)-->
 
@@ -67,8 +60,7 @@ So, we proposed a Voice-based Email System using AI that will make the email sys
 
 <br>
 
-## RESULTS :
-<b><a href="https://youtu.be/kbJEDQWIclQ">Click Here</a> to watch the project demonstration.<b>
+
 
 
 
